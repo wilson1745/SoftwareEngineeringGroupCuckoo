@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft engineering Project", "Soft engineering Project.csproj", "{5E506BB1-082C-A734-030A-D8B788FCF06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft engineering Project.Editor", "Soft engineering Project.Editor.csproj", "{4BEF8BEC-C26A-C507-6759-F3377F92BB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E506BB1-082C-A734-030A-D8B788FCF06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E506BB1-082C-A734-030A-D8B788FCF06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E506BB1-082C-A734-030A-D8B788FCF06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E506BB1-082C-A734-030A-D8B788FCF06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEF8BEC-C26A-C507-6759-F3377F92BB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEF8BEC-C26A-C507-6759-F3377F92BB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEF8BEC-C26A-C507-6759-F3377F92BB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEF8BEC-C26A-C507-6759-F3377F92BB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
